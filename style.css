@@ -67,3 +67,31 @@ body{
 .action-title{ 
   text-align: left;
 }
+.productivity-content{
+  margin: 140px 150px;
+  background-color: rgba(78, 71, 255, 0.1);
+  padding: 50px 80px;
+  border-radius: 24px;
+  gap: 10px;
+}
+.productivity-title{
+  font-size: 38px;
+  font-weight: bold;
+  font-family: releway;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.productivity-section{
+  display: flex;
+  justify-content: space-around;
+}
+.user-num{
+  font-size: 80px;
+  font-family: inter;
+  font-weight: bold;
+  color: rgba(78, 71, 255, 10);
+}
+.users-choice{
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
