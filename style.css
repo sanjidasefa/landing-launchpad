@@ -31,3 +31,39 @@ body{
   border: 0px solid;
   font-weight: bold;
 } 
+.banner-section{
+  text-align: center;
+}
+.nav-des{
+  margin: 150px auto 50px;
+  text-transform: capitalize;
+  font-size: 65px;
+  font-weight: bold;
+}
+.section-content{
+  margin: 140px 150px;
+}
+.action-section{
+  display: flex;
+  justify-content: space-between;
+  gap: auto;
+  align-items: center;
+}
+.action-section img{
+  border-radius: 48px;
+  margin-left: 40px;
+}
+.action-heading{
+  font-size: 42px;
+  font-weight: bold;
+  margin: 23px auto;
+  text-transform: capitalize;
+}
+.action-des{
+  font-size: 24px;
+  color: rgba(37, 36, 50, 0.5);
+  margin: 23px auto;
+}
+.action-title{ 
+  text-align: left;
+}
