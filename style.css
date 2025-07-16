@@ -104,7 +104,7 @@ body{
   border-radius: 14px;
   margin: auto 15px;
   gap: 24px;
-  background-color: rgba(199, 196, 196, 0.5);
+  background-color: white;
 }
 .review-title{
   font-weight: bold;
@@ -118,10 +118,14 @@ body{
 }
 .avatar{
   display: flex;
+  margin: 20px auto 0px;
   /* justify-content: space-between; */
 }
 .star-img{
   display: flex;
+  gap: 4px;
+  size: 2px;
+  margin-bottom: 10px;
 }
 .avatar-title{
   margin: 0px 15px;
@@ -173,7 +177,7 @@ body{
   padding: 100px 400px;
   text-align: center;
 }
-.foote-header{
+.footer-header{
   font-size: 100px;
   color: rgba(78, 71, 255, 1);
   margin: 15px auto;
